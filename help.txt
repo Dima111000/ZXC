@@ -1,0 +1,6 @@
+                                                              Команди компіляції
+1.) int main()
+2.) int
+3.) printf
+4.) scanf
+5.) for
